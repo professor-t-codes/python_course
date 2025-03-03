@@ -1,5 +1,5 @@
 # Repo: python_course
-Python Repository for Wake Tech Camtasia course - Spring 2025
+Python Repository for Wake Tech EPIC 108 course - Spring 2025
 
 ## Learning Objectives
 1.	Learners will commit their code using GitHub Desktop.
